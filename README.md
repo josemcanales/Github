@@ -46,16 +46,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+By creating a platform that allows students to visualize the work, they need to do for college and allow them to make time for leisure activities. Our app works with most college platforms (moodle, blackboard, google classroom, etc.) and recognizes due dates for homework, projects, discussions. Even more, our app works together with your calendar to plan for the best times, where you can work on whatever is due. Which, in its way, allows you to plan when it’s best to take advantage of free time. We intend to bring back what college experience used to be without asking colleges to change their academic plans; instead, the app will adapt to every college, so it is global. The market we are entering is unexplored because many apps exist regarding specific issues, but none of them has the broad approach we at WorkShift provide our users with. 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
 
