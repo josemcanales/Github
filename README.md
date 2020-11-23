@@ -3,8 +3,6 @@
   <a href="https://github.com/josemcanales/Github">
     <img src="Screen Shot 2020-11-23 at 3.17.43 PM.png" alt="Logo" width="150" height="130">
   </a>
- <h2 align="center">Workshift</h3>
-
   <p align="center">
     For Students who suffer from poor Time Management, WorkShift is  the solution to staying ahead in tasks and creating time for yourself.  Unlike other time management applications, WorkShift is better in a Student Market as it is paired with the University Platform. 
     <br />
