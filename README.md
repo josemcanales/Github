@@ -24,7 +24,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#installation">Installation</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -64,8 +64,8 @@ This project was built suing:
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- INSTALATION -->
+## Instalation
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -135,17 +135,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+José Manuel Canales - jcanales.ieu2019@student.ie.edu
+Omar-Amine Farih - ofarih.ieu2019@student.ie.edu
+Pedro Rodriguez - jrodriguezp.ieu2019@student.ie.edu
+Felipe Espinosa - fespinosa.ieu2019@student.ie.edu
+Gonçalo Melo - gmelo.ieu2019@student.ie.edu
 
 Project Link: [https://github.com/josemcanales/Github](https://github.com/josemcanales/Github)
 
 
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
 
 
 
