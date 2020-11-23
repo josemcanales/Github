@@ -52,6 +52,8 @@ This project was built suing:
 
 ### Instalation
 1. Download or Clone the repository to your computer
+![Step 1](https://github.com/josemcanales/Github/blob/main/images/Screen%20Shot%202020-11-23%20at%207.07.19%20PM.png)
+
 2. Open 'Logo_WorkShift.png', 'WorkShift_app.py', and 'graphics.py'
 3. Load them into PyCharm
 4. Run 'graphics.py'
@@ -74,4 +76,3 @@ Felipe Espinosa - fespinosa.ieu2019@student.ie.edu
 Gonçalo Melo - gmelo.ieu2019@student.ie.edu
 PROJECT LINK: [https://github.com/josemcanales/Github](https://github.com/josemcanales/Github)
 
-<!-- IMAGES -->
