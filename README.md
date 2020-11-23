@@ -1,9 +1,8 @@
- <br />
+<br />
 <p align="center">
-  <![Image of Yaktocat]>
-  <(https://octodex.github.com/images/yaktocat.png)>
+  <a href="https://github.com/josemcanales/Github/blob/main/Screen%20Shot%202020-11-23%20at%203.17.43%20PM.png">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
- 
  <h2 align="center">Workshift</h3>
 
   <p align="center">
