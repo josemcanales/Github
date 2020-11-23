@@ -47,29 +47,22 @@ This project was built suing:
 * [Pycharm](https://www.jetbrains.com/pycharm/)
 
 
-<!-- INSTALATION -->
-## Instalation
+<!-- INSTALATION AND USAGE -->
+## Installation and Usage
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### Instalation
+1. Download or Clone the repository to your computer
+2. Open 'Logo_WorkShift.png', 'WorkShift_app.py', and 'graphics.py'
+3. Load them into PyCharm
+4. Run 'graphics.py'
+5. Run 'WorkShift_app.py'
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1.
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-
+### Usage
+1. To login, enter with your IE University email
+2. Add an event by click on the "Add Event" button
+3. Enter the name, date, start time, and end time of your event
+4. Check your calendar for your event
+5. Add more events
 
 <!-- CONTACT -->
 ## Credit
