@@ -52,17 +52,23 @@ This project was built suing:
 ### Instalation
 1. Download or Clone the repository to your computer
 ![Step 1](https://github.com/josemcanales/Github/blob/main/images/Screen%20Shot%202020-11-23%20at%207.07.19%20PM.png)
-
 2. Open 'Logo_WorkShift.png', 'WorkShift_app.py', and 'graphics.py'
 3. Load them into PyCharm
+![Step 3](https://github.com/josemcanales/Github/blob/main/images/Screen%20Shot%202020-11-23%20at%207.07.56%20PM.png)
 4. Run 'graphics.py'
+![Step 4](https://github.com/josemcanales/Github/blob/main/images/Screen%20Shot%202020-11-23%20at%207.08.39%20PM.png)
 5. Run 'WorkShift_app.py'
+![Step 5](https://github.com/josemcanales/Github/blob/main/images/Screen%20Shot%202020-11-23%20at%207.09.05%20PM.png)
 
 ### Usage
 1. To login, enter with your IE University email
+![Step 6](https://github.com/josemcanales/Github/blob/main/images/Screen%20Shot%202020-11-23%20at%207.09.20%20PM.png)
 2. Add an event by click on the "Add Event" button
+![Step 7](https://github.com/josemcanales/Github/blob/main/images/Screen%20Shot%202020-11-23%20at%207.09.37%20PM.png)
 3. Enter the name, date, start time, and end time of your event
+![Step 8](https://github.com/josemcanales/Github/blob/main/images/Screen%20Shot%202020-11-23%20at%207.10.25%20PM.png)
 4. Check your calendar for your event
+![Step 9](https://github.com/josemcanales/Github/blob/main/images/Screen%20Shot%202020-11-23%20at%207.10.38%20PM.png)
 5. Add more events
 
 <!-- CONTACT -->
