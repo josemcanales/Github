@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/josemcanales/Github">
-    <img src="Screen Shot 2020-11-23 at 3.17.43 PM.png" alt="Logo" width="110" height="100">
+    <img src="Screen Shot 2020-11-23 at 3.17.43 PM.png" alt="Logo" width="150" height="130">
   </a>
  <h2 align="center">Workshift</h3>
 
