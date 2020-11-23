@@ -44,8 +44,6 @@
 <!-- PROJECT DESCRIPTION -->
 ## Project Description
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 We are creating a platform that allows students to visualize the work they need to do for college and allow them to make time for leisure activities. Our app works with most college platforms (moodle, blackboard, google classroom, etc.) and recognizes due dates for homework, projects, discussions. Even more, our app works together with your calendar to plan for the best times, where you can work on whatever is due. Which, in its way, allows you to plan when it’s best to take advantage of free time. We intend to bring back what college experience used to be without asking colleges to change their academic plans; instead, the app will adapt to every college, so it is global. 
 
 
