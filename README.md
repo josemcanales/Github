@@ -1,4 +1,10 @@
-  <h3 align="center">Workshift</h3>
+ <br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+ 
+ <h2 align="center">Workshift</h3>
 
   <p align="center">
     For Students who suffer from poor Time Management, WorkShift is  the solution to staying ahead in tasks and creating time for yourself.  Unlike other time management applications, WorkShift is better in a Student Market as it is paired with the University Platform. 
