@@ -136,9 +136,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 José Manuel Canales - jcanales.ieu2019@student.ie.edu
+
 Omar-Amine Farih - ofarih.ieu2019@student.ie.edu
+
 Pedro Rodriguez - jrodriguezp.ieu2019@student.ie.edu
+
 Felipe Espinosa - fespinosa.ieu2019@student.ie.edu
+
 Gonçalo Melo - gmelo.ieu2019@student.ie.edu
 
 Project Link: [https://github.com/josemcanales/Github](https://github.com/josemcanales/Github)
