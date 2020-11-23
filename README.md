@@ -1,7 +1,7 @@
  <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <![Image of Yaktocat]>
+  <(https://octodex.github.com/images/yaktocat.png)>
   </a>
  
  <h2 align="center">Workshift</h3>
